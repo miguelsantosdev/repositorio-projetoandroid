@@ -1,4 +1,3 @@
-# html-css
 #repositorio-projetoandroid
 
 Repositório do projeto android, site sobre curiosidades do mundo da tecnologia.
